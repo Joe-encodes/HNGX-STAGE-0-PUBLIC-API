@@ -1,6 +1,5 @@
 from fastapi import FastAPI
-from datetime import datetime
-import pytz
+from datetime import datetime, timezone
 
 app = FastAPI()
 
@@ -8,7 +7,7 @@ app = FastAPI()
 def get_info():
     return {
         "email": "your-email@example.com",  # Replace with your registered HNG email
-        "current_datetime": datetime.now(pytz.utc).isoformat(),
+        "current_datetime": datetime.now(timezone.utc).isoformat(),
         "github_url": "https://github.com/yourusername/your-repo"  # Replace with your actual GitHub repo URL
     }
 

@@ -16,8 +16,8 @@ app.add_middleware(
 @app.get("/") # Define a route for the root of the API
 def get_info():
     return {
-        "email": "joseph.adamu.it@gmail.com",  # Registered HNG email
-        "current_datetime": datetime.now(timezone.utc).isoformat(), # Display current datetime in UTC
+        "email": "joseph.adamu.it@gmail.com",  # Registered HNG email # Format datetime to ISO 8601 with 'Z' suffix
+        "current_datetime": datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ"), # Display current datetime in UTC
         "github_url": "https://github.com/Joe-encodes/fastapi-project"
     }
 

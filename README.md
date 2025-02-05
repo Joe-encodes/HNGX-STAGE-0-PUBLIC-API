@@ -158,7 +158,7 @@ Pull requests are welcome! For major changes, open an issue first.
 
 ## License
 
-MIT
+GNU
 
 ---
 
@@ -173,3 +173,8 @@ MIT
 
 - **Email**: joseph.adamu.it@gmail.com  
 - **GitHub**: https://github.com/Joe-encodes
+- **LinkedIn**: linkedin.com/in/joseph-adamu-it
+
+## To Hire Other Developers like me
+
+- **Python**: https://hng.tech/hire/python-developers

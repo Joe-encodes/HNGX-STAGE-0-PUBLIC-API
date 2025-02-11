@@ -6,7 +6,7 @@
 
 A public API built with FastAPI for the HNG12 Backend Internship Stage 0. Returns user details and current UTC datetime.
 
-**Live Demo**: [https://your-app-name.onrender.com](https://your-app-name.onrender.com)
+**Live Demo**: Currently Unavailable
 
 ---
 

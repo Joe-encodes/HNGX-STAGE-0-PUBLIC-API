@@ -173,7 +173,7 @@ GNU
 
 - **Email**: joseph.adamu.it@gmail.com  
 - **GitHub**: https://github.com/Joe-encodes
-- **LinkedIn**: linkedin.com/in/joseph-adamu-it
+- **LinkedIn**: https://linkedin.com/in/joseph-adamu-it
 
 ## To Hire Other Developers like me
 
